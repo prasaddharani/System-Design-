@@ -1,2 +1,3 @@
 Rate Limiter:
 https://bytebytego.com/courses/system-design-interview/design-a-rate-limiter
+https://youtu.be/mQCJJqUfn9Y?si=XmVplwRzogupcDM3
