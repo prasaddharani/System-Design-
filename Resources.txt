@@ -1,3 +1,6 @@
 Rate Limiter:
 https://bytebytego.com/courses/system-design-interview/design-a-rate-limiter
 https://youtu.be/mQCJJqUfn9Y?si=XmVplwRzogupcDM3
+Scalability: https://algomaster.io/learn/system-design/scalability
+Availablity: https://algomaster.io/learn/system-design/availability
+CAP Thoerem: https://algomaster.io/learn/system-design/cap-theorem
