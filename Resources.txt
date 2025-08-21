@@ -4,3 +4,4 @@ https://youtu.be/mQCJJqUfn9Y?si=XmVplwRzogupcDM3
 Scalability: https://algomaster.io/learn/system-design/scalability
 Availablity: https://algomaster.io/learn/system-design/availability
 CAP Thoerem: https://algomaster.io/learn/system-design/cap-theorem
+Consistent Hashing: https://algomaster.io/learn/system-design/consistent-hashing
