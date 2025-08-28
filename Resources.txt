@@ -8,3 +8,8 @@ Consistent Hashing: https://algomaster.io/learn/system-design/consistent-hashing
 Postgresql Architecture: https://blog.algomaster.io/p/postgresql-internal-architecture?utm_source=post-banner&utm_medium=web&utm_campaign=posts-open-in-app&triedRedirect=true
 Index: https://algomaster.io/learn/system-design/indexing
 Microservice: https://algomaster.io/learn/system-design/microservices-architecture
+
+
+
+Spring Boot:
+Transaction Management Propagation and Isolation: https://chatgpt.com/c/68af4efa-cd4c-832f-9f70-45775370ad3e
