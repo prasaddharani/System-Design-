@@ -13,3 +13,7 @@ Microservice: https://algomaster.io/learn/system-design/microservices-architectu
 
 Spring Boot:
 Transaction Management Propagation and Isolation: https://chatgpt.com/c/68af4efa-cd4c-832f-9f70-45775370ad3e
+
+
+Low Level System Design:
+https://codewitharyan.com/system-design/low-level-design
